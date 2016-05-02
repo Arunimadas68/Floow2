@@ -66,6 +66,7 @@
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
 	<access origin="http://*.youtube.com" />
+	<access origin="http://*.vimeo.com" />
     <platform name="android">
         <allow-intent href="market:*" />
     </platform>
