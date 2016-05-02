@@ -23,6 +23,7 @@
 	<plugin name="cordova-plugin-schedule" source="npm" />
    <plugin name="org.transistorsoft.cordova.plugin.background.fetch" spec="2.0.2" source="pgb" />
 	<plugin name="com.jaeger.html5video" spec="1.2.1" source="pgb" />
+	<plugin name="VideoPlayer" value="com.phonegap.plugins.video.VideoPlayer"/>
 	
     <preference name="permissions" value="none" />
 	<preference name="fullscreen" value="true" />
