@@ -65,6 +65,7 @@
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
+	<access origin="http://*.youtube.com" />
     <platform name="android">
         <allow-intent href="market:*" />
     </platform>
