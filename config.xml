@@ -67,6 +67,10 @@
     <allow-intent href="geo:*" />
 	<access origin="http://*.youtube.com" />
 	<access origin="http://*.vimeo.com" />
+	<access origin="http://player.vimeo.com*"/>
+	<access origin="http://*.vimeocdn.com*" />
+	<access origin="http://*.vimeo.com*" />
+	<access origin="http://vimeo.com*" />
     <platform name="android">
         <allow-intent href="market:*" />
     </platform>
